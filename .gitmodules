@@ -1,0 +1,6 @@
+[submodule "tabby"]
+	path = tabby
+	url = https://github.com/itds283-mobile/tabby
+[submodule "tabby-infra"]
+	path = tabby-infra
+	url = https://github.com/itds283-mobile/tabby-infra
